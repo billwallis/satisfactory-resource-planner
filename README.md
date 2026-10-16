@@ -1,24 +1,19 @@
 <span align="center">
 
 [![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)](https://www.python.org/downloads/)
-[![tests](https://github.com/billwallis/python-template/actions/workflows/tests.yaml/badge.svg)](https://github.com/billwallis/python-template/actions/workflows/tests.yaml)
-[![coverage](https://raw.githubusercontent.com/billwallis/python-template/refs/heads/main/coverage.svg)](https://smarie.github.io/python-genbadge/)
+[![tests](https://github.com/billwallis/satisfactory-resource-planner/actions/workflows/tests.yaml/badge.svg)](https://github.com/billwallis/satisfactory-resource-planner/actions/workflows/tests.yaml)
+[![coverage](https://raw.githubusercontent.com/billwallis/satisfactory-resource-planner/refs/heads/main/coverage.svg)](https://smarie.github.io/python-genbadge/)
 
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/billwallis/python-template/main.svg)](https://results.pre-commit.ci/latest/github/billwallis/python-template/main)
-[![GitHub last commit](https://img.shields.io/github/last-commit/billwallis/python-template)](https://shields.io/badges/git-hub-last-commit)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/billwallis/satisfactory-resource-planner/main.svg)](https://results.pre-commit.ci/latest/github/billwallis/satisfactory-resource-planner/main)
+[![GitHub last commit](https://img.shields.io/github/last-commit/billwallis/satisfactory-resource-planner)](https://shields.io/badges/git-hub-last-commit)
 
 </span>
 
 ---
 
-# Python Template Repo
+# Satisfactory resource planner
 
-Not for public consumption; this is just for me (@billwallis).
-
-After copying, find and replace on:
-
-- `python-template` -> new repo name
-- `python_template` -> new package name
+Utilities to plan Satisfactory resource production.
 
 ## Contributing
 
