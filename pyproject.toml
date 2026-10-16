@@ -4,9 +4,9 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "python-template"
+name = "satisfactory-resource-planner"
 version = "0.0.0"
-description = ""
+description = "Utilities to plan Satisfactory resource production."
 authors = [{name = "billwallis"}]
 readme = "README.md"
 license-files = ["LICENSE"]
